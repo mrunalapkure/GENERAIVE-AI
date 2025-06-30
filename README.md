@@ -1,4 +1,4 @@
-this is API-KEY you have to generate your personal for use 
+This is API-KEY you have to generate your personal for use 
 i will tell you how to generate it 
 step 1.open your vs code terminal type ""pip install google-generativeai ""   and install it.
 step 2.once it install go for the 2nd important thing that is your own API-KEY.
